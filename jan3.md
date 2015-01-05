@@ -11,6 +11,7 @@
 
 ## Notes
 * Wasted the whole day
+* Originally offered $80 for manual labor and planned to tip $20. When he arrived, he said he wanted $100. This bothered me a little, but if you thinking about it, manual laborors are not used to tips and cant depend on the fact that they will receive tips for good work. When negatiating with manual laborers, I should tell them straight up, "$80 for the job, an extra $20 if you do good work"
 
 ## Interesting
 * [minimalistic animation js lib](http://daniel-lundin.github.io/snabbt.js/cards.html)
