@@ -6,3 +6,5 @@
 ## Personal
 * Motorcycle shipping
 * [Inspirational stories](http://www.quora.com/What-are-the-most-inspirational-success-stories-ever-around-the-world)
+* Cooked dumplings for dinner
+* Ran - 22 mins
