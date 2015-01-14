@@ -1,4 +1,4 @@
-# jan 12
+# Mon, Jan 12
 
 ## Work
 * Meeting - morning update. Learn terminalogy
@@ -6,9 +6,11 @@
 * Integrate service with backend via post
   * Create naming / data model convention
 
+## Social
+* Dinner with Janine
+* Clothes tailoring
+
 ## todos
 * Pay AMEX card
 * Return Fong Money
-* Clothes tailoring
-* Meeting with Roopesh
-* Dinner with Janine
+* Folio Investing - lending club
