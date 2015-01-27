@@ -30,4 +30,4 @@
 ## Notes
 * Should never commit generated files. causes merge conflicts
 * Every React page component have pageState and data stores
-
+* Note - Every day, fill out rally tasks
